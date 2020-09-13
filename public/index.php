@@ -44,7 +44,7 @@ $config = [
 
 $app = new Application(dirname(__DIR__), $config);
  
-$app->router->get('/index', [SiteController::class, 'index']);
+$app->router->get('/', [SiteController::class, 'index']);
 $app->router->get('/about', [SiteController::class, 'about']);
 // $app->router->get('/index', [SiteController::class, 'index']);
 
