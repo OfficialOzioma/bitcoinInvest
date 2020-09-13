@@ -100,11 +100,11 @@
 
                             <div class="action-button-wrapper">
                                 <div class="action-button-login">
-                                    <button type="button" onclick="document.location='login-page.html'" class="btn btn-primary">LOGIN</button>
+                                    <button type="button" onclick="document.location='/login'" class="btn btn-primary">LOGIN</button>
                                 </div>
 
                                 <div class="action-button">
-                                    <button type="button" onclick="document.location='Registration-page.html'" class="btn btn-primary">SIGN UP</button>
+                                    <button type="button" onclick="document.location='/register'" class="btn btn-primary">SIGN UP</button>
                                 </div>
                             </div>
                         </div>
@@ -118,11 +118,11 @@
 
                             <div class="action-button-wrapper">
                                 <div class="action-button-login">
-                                    <button type="button" onclick="document.location='login-page.html'" class="btn btn-primary">LOGIN</button>
+                                    <button type="button" onclick="document.location='/login'" class="btn btn-primary">LOGIN</button>
                                 </div>
 
                                 <div class="action-button">
-                                    <button type="button" onclick="document.location='Registration-page.html'" class="btn btn-primary">SIGN UP</button>
+                                    <button type="button" onclick="document.location='/register'" class="btn btn-primary">SIGN UP</button>
                                 </div>
                             </div>
                         </div>
@@ -156,7 +156,7 @@
                             struggles with rig assembly, or noisy miners at home.
                         </p>
 
-                        <button type="button" onclick="document.location='About-Us.html'" class="btn btn-primary">About Us</button>
+                        <button type="button" onclick="document.location='#'" class="btn btn-primary">About Us</button>
                     </div>
                     <hr style="margin: 10px; margin-left: 40%; width: 20%; height: 4px; border-width: 0; color: rgba(173, 49, 4, 0.856); background-color: rgba(173, 49, 4, 0.856);">
                 </div>
@@ -173,7 +173,7 @@
                             for all the available cryptos using our website.
                         </p>
 
-                        <button type="button" onclick="document.location='Customer-Service.html'" class="btn btn-primary">Customer Service</button>
+                        <button type="button" onclick="document.location='#'" class="btn btn-primary">Customer Service</button>
                     </div>
                     <hr style="margin: 10px; margin-left: 40%; width: 20%; height: 4px; border-width: 0; color: rgba(173, 49, 4, 0.856); background-color: rgba(173, 49, 4, 0.856);">
                 </div>
@@ -191,7 +191,7 @@
                             deposited to your personal wallet.                            
                         </p>
 
-                        <button type="button" onclick="document.location='Investment-Plans.html'" class="btn btn-primary">Investment Plans</button>
+                        <button type="button" onclick="document.location='#'" class="btn btn-primary">Investment Plans</button>
                     </div>
                     <hr style="margin: 10px; margin-left: 40%; width: 20%; height: 4px; border-width: 0; color: rgba(173, 49, 4, 0.856); background-color: rgba(173, 49, 4, 0.856);">
                 </div>
